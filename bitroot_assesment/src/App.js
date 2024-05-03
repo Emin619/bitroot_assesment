@@ -23,7 +23,7 @@ function App() {
             imageUrl={item.thumbnail.small}
             title={item.title}
             subtitle={item.content}
-            onClick={() => alert('Container clicked!')}
+           
           />
         ))}
           </div>
